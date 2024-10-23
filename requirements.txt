@@ -2,6 +2,6 @@ pandas
 numpy==1.21.6 
 streamlit
 matplotlib
-tensorflow
+tensorflow==2.9.1
 pillow
 
