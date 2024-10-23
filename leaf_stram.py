@@ -1,5 +1,6 @@
 import tensorflow as tf
-from tensorflow import _keras
+import keras
+# from tensorflow import _keras
 from keras.models import load_model
 import streamlit as st
 import numpy as np
